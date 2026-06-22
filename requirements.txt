@@ -1,0 +1,9 @@
+streamlit 
+requests 
+pandas 
+matplotlib 
+plotly 
+python-docx 
+pdfkit 
+python-dotenv
+
